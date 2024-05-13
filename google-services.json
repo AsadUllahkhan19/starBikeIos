@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "496402510831",
+    "project_id": "star-bike-b7d5a",
+    "storage_bucket": "star-bike-b7d5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496402510831:android:be352799bd3885fb14bc1a",
+        "android_client_info": {
+          "package_name": "com.starbike.macworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496402510831-q6272nqiutgqpjv981v89dcbtgav27jl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.starbike.macworld",
+            "certificate_hash": "54b4681757fdf4d01f7bf6b19e145a1f528cca22"
+          }
+        },
+        {
+          "client_id": "496402510831-j3cjtn5cejdbq9hed625u1bgsurhkqta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByFxHecfElvKcqi-fEG7Zrgs7o0zZ53xQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496402510831-j3cjtn5cejdbq9hed625u1bgsurhkqta.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "496402510831-kgs0tga1bhvqe2eht9lascvba3rn1ad2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.starbike.macworld"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

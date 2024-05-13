@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "StarBikes",
+    "slug": "starbike",
+    "version": "1.0.0",
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo3.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "plugins": [],
+    "splash": {
+      "image": "./assets/AppIcons/Splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFFFFF"
+    },
+    "scheme": "mycoolredirect",
+    "ios": {
+      "bundleIdentifier": "com.yourcompany.yourapp"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "95efed39-8dd6-48b0-9206-229221fabcd0"
+      }
+    },
+    "owner": "asadullah_khan"
+  }
+}
